@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>每周法务 AI 权威资料更新</title>
+    <link>/feed/legal-ai-authority.xml</link>
+    <description>过去 7 天法务 AI 官方权威资料更新。</description>
+    <language>zh-CN</language>
+    <item>
+      <title>每周法务 AI 权威资料更新（2026年7月10日—7月16日）</title>
+      <link>/api/public/latest.json</link>
+      <guid>legal-ai-authority-2026-07-16</guid>
+      <pubDate>Thu, 16 Jul 2026 10:00:00 +0800</pubDate>
+      <description>覆盖法规政策解读、监管动态、行业实务指引、AI 治理前沿、调研报告、公务文章、活动预告及其他资料。</description>
+    </item>
+  </channel>
+</rss>

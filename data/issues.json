@@ -1,0 +1,58 @@
+{
+  "siteName": "法律 AI 高管知识库",
+  "channels": [
+    {
+      "id": "legal-ai-authority",
+      "title": "每周法务AI权威资料更新",
+      "cadence": "weekly-friday",
+      "sourceUrl": "https://aivigate.feishu.cn/wiki/VBGCwWyaMiRjJ0kf5pScn7xgnJK?from=from_copylink",
+      "feed": "/feed/legal-ai-authority.xml"
+    },
+    {
+      "id": "legal-ai-executive",
+      "title": "每周法律AI高管资讯周报",
+      "cadence": "weekly-friday",
+      "sourceUrl": "https://aivigate.feishu.cn/wiki/A4h5wKHu0iaTNLk3nwwcw4jqnLg?from=from_copylink",
+      "feed": "/feed/legal-ai-executive.xml"
+    }
+  ],
+  "issues": [
+    {
+      "id": "legal-ai-authority-2026-07-16",
+      "channelId": "legal-ai-authority",
+      "title": "每周法务 AI 权威资料更新（2026年7月10日—7月16日）",
+      "publishedAt": "2026-07-16",
+      "sections": [
+        "精选内容",
+        "法规政策解读",
+        "监管动态",
+        "行业实务指引",
+        "AI治理前沿",
+        "调研报告",
+        "公务文章",
+        "活动预告",
+        "其他资料"
+      ],
+      "items": [
+        {
+          "title": "国家网信办：关于发布生成式人工智能服务已备案信息的公告（2026年5月至6月）",
+          "url": "https://www.cac.gov.cn/2026-07/10/c_1785427810632554.htm",
+          "source": "国家互联网信息办公室",
+          "category": "监管动态"
+        },
+        {
+          "title": "国家网信办：关于发布7款提供手机端侧生成式人工智能服务已备案信息的公告",
+          "url": "https://www.cac.gov.cn/2026-07/15/c_1785861480767004.htm",
+          "source": "国家互联网信息办公室",
+          "category": "监管动态"
+        },
+        {
+          "title": "欧盟委员会：AI 生成内容透明度行为准则评估意见",
+          "url": "https://digital-strategy.ec.europa.eu/en/library/commission-opinion-assessment-code-practice-transparency-ai-generated-content",
+          "source": "European Commission",
+          "category": "法规政策解读"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>法律 AI 高管知识库 - 全部内容</title>
+    <link>/</link>
+    <description>企业法务、法律服务与 AI 治理官方资料及高管资讯订阅。</description>
+    <language>zh-CN</language>
+    <item>
+      <title>每周法务 AI 权威资料更新（2026年7月10日—7月16日）</title>
+      <link>/api/public/latest.json</link>
+      <guid>legal-ai-authority-2026-07-16</guid>
+      <pubDate>Thu, 16 Jul 2026 10:00:00 +0800</pubDate>
+      <description>本期重点包括国家网信办生成式 AI 服务备案、端侧 AI 服务备案、欧盟 AI 生成内容透明度准则评估、DSA 平台监管动态和 TDM opt-out 可行性研究。</description>
+    </item>
+  </channel>
+</rss>
