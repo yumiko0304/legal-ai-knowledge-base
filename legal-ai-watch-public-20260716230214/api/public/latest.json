@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0",
+  "updatedAt": "2026-07-16T10:00:00+08:00",
+  "issue": {
+    "id": "legal-ai-authority-2026-07-16",
+    "title": "每周法务 AI 权威资料更新（2026年7月10日—7月16日）",
+    "publishedAt": "2026-07-16",
+    "channelId": "legal-ai-authority",
+    "url": "/api/public/latest.json",
+    "topThree": [
+      "国家网信办生成式 AI 服务备案公告",
+      "国家网信办手机端侧生成式 AI 服务备案公告",
+      "欧盟 AI 生成内容透明度行为准则评估意见"
+    ]
+  }
+}
