@@ -659,19 +659,19 @@
 
         <div class="agent-panel">
           <div class="kicker">推荐路径 · Agent-first</div>
-          <h2>把这一段发给你的 Agent</h2>
-          <p>把下面这段发给 Agent。它会从公开网站下载 Skill 包，不依赖本地目录。</p>
+          <h2>复制提示词，完成 Agent 接入</h2>
+          <p>把下面这段发给 Agent，它会从公开网站下载并安装知识库 Skill。</p>
           <div class="agent-code">
             <button class="copy" data-copy="agent-prompt">复制</button>
-            <pre id="agent-prompt">请从这个公开地址下载并安装“法律 AI 高管知识库”Skill：
+            <pre id="agent-prompt">请安装“法律 AI 高管知识库”Skill：
 https://yumiko0304.github.io/legal-ai-knowledge-base/legal-ai-skill.zip
 
 要求：
 1. 下载并解压 legal-ai-skill.zip；
-2. 先读取并检查 SKILL.md 与 install.sh，确认只访问公开只读 RSS、JSON 和源链接；
-3. 告诉我你准备写入的目录和文件，不要使用 sudo，不要覆盖其它 Skill；
-4. 安装到当前 Agent 官方支持的用户级 skills 目录；
-5. 安装完成后告诉我是否需要重启或开启新会话，并给出一个验证问题。</pre>
+2. 先检查 SKILL.md 和 install.sh；
+3. 不使用 sudo，不覆盖其它 Skill；
+4. 安装到当前 Agent 支持的用户级 skills 目录；
+5. 安装后用这个问题验证：请总结法律 AI 高管知识库过去 7 天最值得读的 3 条内容。
           </div>
           <div class="agent-actions">
             <a href="legal-ai-skill.zip">下载 Skill 包</a>
