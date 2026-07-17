@@ -1,3 +1,0 @@
-display_name: 法律 AI 高管知识库
-short_description: 读取法律 AI 高管知识库的公开 RSS、JSON 和官方资料更新。
-default_prompt: 请总结法律 AI 高管知识库过去 7 天最值得读的 3 条内容。
